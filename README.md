@@ -3,7 +3,7 @@ moduł zasilacza stabilizowanego
 
 Dwa moduły zasilacza stabilizowanego, przygotowane do wykonania jako DIY:
 
-![schemat 1](https//github.com/majsterklepka/literate-telegram/assets/img/zasilacz_a.png "Schemat (+)")
+![schemat 1](https//github.com/majsterklepka/literate-telegram/raw/master/assets/img/zasilacz_a.png "Schemat (+)")
 
 ![schemat 2](https://github.com/majsterklepka/literate-telegram/raw/master/assets/img/zasilacz_b.png "Schemat (-)")
 
@@ -14,7 +14,7 @@ Przygotowany został również projekt płytki drukowanej, oraz rysunek płytki 
 
 ![pcb](https://github.com/majsterklepka/literate-telegram/raw/master/assets/img/pcb.png "PCB Layout")
 
-![pcb Silk](https://github.com/majsterklepka/literate-telegram/assets/img/pcb_Silk.png "PCB Silk")
+![pcb Silk](https://github.com/majsterklepka/literate-telegram/raw/master/assets/img/pcb_Silk.png "PCB Silk")
 
 ##Credits
 
