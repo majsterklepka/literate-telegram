@@ -3,7 +3,7 @@ moduł zasilacza stabilizowanego
 
 Dwa moduły zasilacza stabilizowanego, przygotowane do wykonania jako DIY:
 
-![schemat 1](https//github.com/majsterklepka/literate-telegram/raw/master/assets/img/zasilacz_a.png "Schemat positive")
+![schemat 1](https://github.com/majsterklepka/literate-telegram/raw/master/assets/img/zasilacz_a.png "Schemat positive")
 
 ![schemat 2](https://github.com/majsterklepka/literate-telegram/raw/master/assets/img/zasilacz_b.png "Schemat negative")
 
