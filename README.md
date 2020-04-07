@@ -3,12 +3,11 @@ moduł zasilacza stabilizowanego
 
 Dwa moduły zasilacza stabilizowanego, przygotowane do wykonania jako DIY:
 
-![schemat 1](https//github.com/majsterklepka/literate-telegram/raw/master/assets/img/zasilacz_a.png "Schemat (+)")
+![schemat 1](https//github.com/majsterklepka/literate-telegram/raw/master/assets/img/zasilacz_a.png "Schemat positive")
 
-![schemat 2](https://github.com/majsterklepka/literate-telegram/raw/master/assets/img/zasilacz_b.png "Schemat (-)")
+![schemat 2](https://github.com/majsterklepka/literate-telegram/raw/master/assets/img/zasilacz_b.png "Schemat negative")
 
 Moduły wykorzystują popularne liniowe stabilizatory napięcia stałego z rodziny 78xx i 79xx , kilka elementów dyskretnych, posiada bocznik prądowy.
-
 
 Przygotowany został również projekt płytki drukowanej, oraz rysunek płytki w formacie PNG, 100x100mm, 2x2 moduły do wykonania w  domu. Rysunek płytki zawiera po 2 takie same moduły:
 
@@ -16,7 +15,7 @@ Przygotowany został również projekt płytki drukowanej, oraz rysunek płytki 
 
 ![pcb Silk](https://github.com/majsterklepka/literate-telegram/raw/master/assets/img/pcb_Silk.png "PCB Silk")
 
-##Credits
+## Credits
 
 Oczywiście jak i pozostałe moje projekty i ten jest udostępnainy na zasadach Wolnych Licencji:
 
