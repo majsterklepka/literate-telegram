@@ -17,7 +17,7 @@ Przygotowany został również projekt płytki drukowanej, oraz rysunek płytki 
 
 ## Credits
 
-Oczywiście jak i pozostałe moje projekty i ten jest udostępnainy na zasadach Wolnych Licencji:
+Oczywiście jak i pozostałe moje projekty i ten jest udostępniany na zasadach Wolnych Licencji:
 
 - [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/ "License")
 
